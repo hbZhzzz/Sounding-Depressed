@@ -1,6 +1,6 @@
 
 
-Here is the code for the paper "Sounding Depressed? Personalized Deep Learning Model for Depression Detection from Speech and Text".
+Here is the code for the paper **"Sounding Depressed? Personalized Deep Learning Model for Depression Detection from Speech and Text"**.
 
 <img src='.\Fig\flow.png'>
 
