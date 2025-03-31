@@ -1,6 +1,7 @@
 
-
 Here is the code for the paper **"Sounding Depressed? Personalized Deep Learning Model for Depression Detection from Speech and Text"**.
+
+**This article is being submitted to <IEEE Transactions on Multimedia>, and we will update the source code when it is accepted.**
 
 <img src='.\Fig\flow.png'>
 
